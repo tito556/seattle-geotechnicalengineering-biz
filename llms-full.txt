@@ -1,0 +1,43 @@
+# Geotechnicalengineering — Seattle
+
+> Geotechnical engineering services in Seattle, United States.
+
+## Services
+- [Atterberg Limits](https://seattle.geotechnicalengineering.biz/atterberg-limits/)
+- [Cbr Road](https://seattle.geotechnicalengineering.biz/cbr-road/)
+- [Deep Excavations](https://seattle.geotechnicalengineering.biz/deep-excavations/)
+- [Excavation Monitoring](https://seattle.geotechnicalengineering.biz/excavation-monitoring/)
+- [Excavations](https://seattle.geotechnicalengineering.biz/excavations/)
+- [Flexible Pavement](https://seattle.geotechnicalengineering.biz/flexible-pavement/)
+- [Foundations](https://seattle.geotechnicalengineering.biz/foundations/)
+- [Geophysics](https://seattle.geotechnicalengineering.biz/geophysics/)
+- [Grain Size](https://seattle.geotechnicalengineering.biz/grain-size/)
+- [Ground Improvement](https://seattle.geotechnicalengineering.biz/ground-improvement/)
+- [Investigation](https://seattle.geotechnicalengineering.biz/investigation/)
+- [Lab In Situ](https://seattle.geotechnicalengineering.biz/lab-in-situ/)
+- [Laboratory](https://seattle.geotechnicalengineering.biz/laboratory/)
+- [Liquefaction](https://seattle.geotechnicalengineering.biz/liquefaction/)
+- [Masw](https://seattle.geotechnicalengineering.biz/masw/)
+- [Mat Foundations](https://seattle.geotechnicalengineering.biz/mat-foundations/)
+- [Piles](https://seattle.geotechnicalengineering.biz/piles/)
+- [Plate Load Test](https://seattle.geotechnicalengineering.biz/plate-load-test/)
+- [Retaining Walls](https://seattle.geotechnicalengineering.biz/retaining-walls/)
+- [Road Geotechnics](https://seattle.geotechnicalengineering.biz/road-geotechnics/)
+- [Sand Cone Density](https://seattle.geotechnicalengineering.biz/sand-cone-density/)
+- [Seismic](https://seattle.geotechnicalengineering.biz/seismic/)
+- [Seismic Isolation](https://seattle.geotechnicalengineering.biz/seismic-isolation/)
+- [Seismic Microzonation](https://seattle.geotechnicalengineering.biz/seismic-microzonation/)
+- [Slope Stability](https://seattle.geotechnicalengineering.biz/slope-stability/)
+- [Slopes](https://seattle.geotechnicalengineering.biz/slopes/)
+- [Soft Ground Tunnels](https://seattle.geotechnicalengineering.biz/soft-ground-tunnels/)
+- [Spt Drilling](https://seattle.geotechnicalengineering.biz/spt-drilling/)
+- [Stone Columns](https://seattle.geotechnicalengineering.biz/stone-columns/)
+- [Triaxial](https://seattle.geotechnicalengineering.biz/triaxial/)
+- [Vibrocompaction](https://seattle.geotechnicalengineering.biz/vibrocompaction/)
+
+## Contact
+- Website: https://seattle.geotechnicalengineering.biz/
+
+## About
+This site provides geotechnical engineering services in Seattle, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
